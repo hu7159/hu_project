@@ -1,2 +1,0 @@
-# hu_project
-test
